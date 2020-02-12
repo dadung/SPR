@@ -35,7 +35,6 @@ Localization
 
 + Run `doPR.m.m` to perform place recognition. 
 
-+ If you want to perform graph compression, please change `update_params.do_cull` and `update_params.do_combine` to `true`.
 
 Support
 ============
