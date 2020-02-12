@@ -30,8 +30,8 @@ update_params.do_combine = false;
 
 %% FLANN parameters
 flann.algorithm = 'kmeans';
-flann.branching = 64;
-flann.iterations = 50; %-1
+flann.branching = 16; 
+flann.iterations = 50;
 flann.centers_init = 'kmeanspp';
 flann.checks = 128;
 flann.knn = 5;
